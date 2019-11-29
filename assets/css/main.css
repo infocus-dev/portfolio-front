@@ -3969,10 +3969,11 @@ input, select, textarea {
 
 #three{
 	/* background-color: white; */
-	background-image: url('../../images/domore.jpg');
+	background-image: url('../../images/domore.jpg');	
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center center;
+	background-attachment: fixed;
 	margin: auto 1%;
 	
 }
