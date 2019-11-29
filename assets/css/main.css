@@ -4003,11 +4003,10 @@ input, select, textarea {
 	#one section{
 		background-image: url('../../images/city.jpg');
 		background-size: cover;
-		background-repeat: none;
+		background-repeat: no-repeat;
 		background-position: center center;
 		background-attachment: fixed;
-		width: 100%;
-		
+		width: 100%;		
 	}
 	#one .content{
 		margin: 12.5% auto;
@@ -4030,7 +4029,7 @@ input, select, textarea {
 		padding-bottom: 1%;
 		background-image: url('../../images/domore.jpg');
 		background-size: cover;
-		background-repeat: none;
+		background-repeat: no-repeat;
 		background-position: center center;
 		background-attachment: fixed;
 		width: 100%;
