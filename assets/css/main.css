@@ -4065,16 +4065,16 @@ input, select, textarea {
 
 @media screen and (max-width: 736px ) and (orientation: portrait){
 	#one{
-		height: 75vh;
+		height: 85vh;
 		background-size: contain;
 	}
 	
 	#three section form{
-		background-color: rgba(0, 0, 0, 0.5);
+		/* background-color: rgba(0, 0, 0, 0.5);
 		background-image: none;
 		background-image: url('../../images/domore.jpg');
 		background-size: cover;
-		background-repeat: no-repeat;	
+		background-repeat: no-repeat;	 */
 
 	}
 	#three .inner{
