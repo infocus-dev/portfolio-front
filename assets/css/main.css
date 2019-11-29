@@ -4064,8 +4064,9 @@ input, select, textarea {
 }
 
 @media screen and (max-width: 736px ) and (orientation: portrait){
-	#one section{
+	#one{
 		height: 70vh;
+		background-size: contain;
 	}
 	
 	#three{
