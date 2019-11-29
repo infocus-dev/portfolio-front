@@ -4068,7 +4068,7 @@ input, select, textarea {
 		background-color: rgba(0, 0, 0, 0.5);
 		background-image: none;
 		background-image: url('../../images/domore.jpg');
-		background-size: cover;
+		background-size: contain;
 		background-repeat: no-repeat;	
 
 	}
